@@ -187,6 +187,3 @@ GPQA Diamond 94.3% แข่งได้กับทุกโมเดล ARC-AG
 | Real-time Data จาก X | Grok 4 |
 | Self-host ไม่ใช้ Nvidia | GLM-5 |
 
----
-
-*ข้อมูลอ้างอิงจาก [AI Model Rankings 2026](ai-rankings-2026.html) · อัปเดตพฤษภาคม 2026*
